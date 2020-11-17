@@ -1,0 +1,6 @@
+[book]
+authors = ["Mr-DareDevil"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Algorithms"
