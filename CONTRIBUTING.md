@@ -23,13 +23,14 @@ When creating a Pull Request, please ensure the following things:
 
 ## Steps to follow after opening a pull request.
 
-* Check the travis-ci continuous integration build once it completes. 
-* This usually takes about 10 minutes ⏱, and if any tests fail you can find details in the build log.
+- Check the travis-ci continuous integration build once it completes.
+- This usually takes about 10 minutes ⏱, and if any tests fail you can find details in the build log.
 
 ### If somehow build fails / not passing then:
-* Try to fix whatever caused it to fail if you can.  
-* Ask for help if you cannot fix it. If a pull request build is failing but you have not asked for help, we will assume that you have seen the errors and are still working on them. 
-* If you don't get reviewer feedback in couple of days ⏱, or you're waiting for followup, ping someone.
+
+- Try to fix whatever caused it to fail if you can.
+- Ask for help if you cannot fix it. If a pull request build is failing but you have not asked for help, we will assume that you have seen the errors and are still working on them.
+- If you don't get reviewer feedback in couple of days ⏱, or you're waiting for followup, ping someone.
 
 # Code of Conduct
 
