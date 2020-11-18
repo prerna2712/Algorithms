@@ -1,3 +1,8 @@
+---
+name: Bug Report
+about: Use this for bug reports in the repository
+---
+
 #### Category?
 
 - [ ] Algorithms
