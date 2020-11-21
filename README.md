@@ -3,7 +3,7 @@
 <center>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=for-the-badge)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </center>
@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://arnabsen.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/51032928?v=4" width="100px;" alt=""/><br /><sub><b>Arnab Sen</b></sub></a><br /><a href="#maintenance-arnabsen1729" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/sadn1ck/"><img src="https://avatars2.githubusercontent.com/u/16396161?v=4" width="100px;" alt=""/><br /><sub><b>Anik Das</b></sub></a><br /><a href="#maintenance-sadn1ck" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://www.linkedin.com/in/hrahul2605"><img src="https://avatars1.githubusercontent.com/u/48245702?v=4" width="100px;" alt=""/><br /><sub><b>Rahul Halder</b></sub></a><br /><a href="#maintenance-hrahul2605" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
