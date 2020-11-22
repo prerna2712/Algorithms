@@ -3,7 +3,7 @@
 <center>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=for-the-badge)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=for-the-badge)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </center>
@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/sadn1ck/"><img src="https://avatars2.githubusercontent.com/u/16396161?v=4" width="100px;" alt=""/><br /><sub><b>Anik Das</b></sub></a><br /><a href="#maintenance-sadn1ck" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/hrahul2605"><img src="https://avatars1.githubusercontent.com/u/48245702?v=4" width="100px;" alt=""/><br /><sub><b>Rahul Halder</b></sub></a><br /><a href="#maintenance-hrahul2605" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/raydwaipayan"><img src="https://avatars1.githubusercontent.com/u/35661311?v=4" width="100px;" alt=""/><br /><sub><b>Dwaipayan Ray</b></sub></a><br /><a href="#maintenance-raydwaipayan" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/souvikmahato-sm"><img src="https://avatars3.githubusercontent.com/u/58760297?v=4" width="100px;" alt=""/><br /><sub><b>souvikmahato-sm</b></sub></a><br /><a href="https://github.com/codeiiest-dev/Algorithms/commits?author=souvikmahato-sm" title="Documentation">📖</a></td>
   </tr>
 </table>
 
