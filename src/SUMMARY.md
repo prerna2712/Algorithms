@@ -5,5 +5,5 @@
   - [Persistent Segment Trees](./PersistentDS/persistentST.md)
 - [Graph](./Graph/Graph.md)
   - [Tree](./Graph/Tree/Tree.md)
-    - [Diameter](./Graph/Tree/Diameter/Diameter.md) 
+    - [Diameter](./Graph/Tree/Diameter/diameter.md) 
     
