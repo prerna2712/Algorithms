@@ -1,0 +1,61 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "arnabsen1729",
+      "name": "Arnab Sen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/51032928?v=4",
+      "profile": "https://arnabsen.netlify.app/",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "sadn1ck",
+      "name": "Anik Das",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16396161?v=4",
+      "profile": "https://www.linkedin.com/in/sadn1ck/",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "hrahul2605",
+      "name": "Rahul Halder",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/48245702?v=4",
+      "profile": "http://www.linkedin.com/in/hrahul2605",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "raydwaipayan",
+      "name": "Dwaipayan Ray",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35661311?v=4",
+      "profile": "https://github.com/raydwaipayan",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "souvikmahato-sm",
+      "name": "souvikmahato-sm",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58760297?v=4",
+      "profile": "https://github.com/souvikmahato-sm",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=for-the-badge)](#contributors)",
+  "projectName": "Algorithms",
+  "projectOwner": "codeiiest-dev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
