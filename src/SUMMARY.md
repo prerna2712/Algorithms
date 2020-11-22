@@ -1,6 +1,9 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Arrays](Arrays/README.md)
+  - [Notes](Arrays/notes.md)
+  - [Problems](Arrays/problems.md)
 - Searching Algorithms
   - [Linear Search](./Searching_Algos/Linear_search/Explanation.md)
   - [Binary Search](./Searching_Algos/Binary_search/Explanation.md)
