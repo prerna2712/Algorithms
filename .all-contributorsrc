@@ -40,6 +40,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "souvikmahato-sm",
+      "name": "souvikmahato-sm",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58760297?v=4",
+      "profile": "https://github.com/souvikmahato-sm",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
